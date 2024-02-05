@@ -1,0 +1,7 @@
+[
+{"messageIndex":0,"name":"Agumon", "message":"Taichi"},
+{"messageIndex":1,"name":"Gabumon", "message":"Yamato"},
+{"messageIndex":2,"name":"Byomon", "message":"Sora"},
+{"messageIndex":3,"name":"Patamon", "message":"Takeru"},
+{"messageIndex":4,"name":"Gomamon", "message":"Joe"}
+]
