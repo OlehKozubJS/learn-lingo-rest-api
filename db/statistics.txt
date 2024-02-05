@@ -245,3 +245,15 @@
 {"date":"Tue Feb 06 2024 00:50:34 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load","method":"GET"}
  
 {"date":"Tue Feb 06 2024 00:50:34 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 00:54:59 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 00:54:59 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 00:55:17 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 00:57:44 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=German&level=any%20level&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 00:57:49 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=any%20language&level=any%20level&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 00:57:49 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=any%20language&level=any%20level&price=any%20price","method":"GET"}
