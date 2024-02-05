@@ -17,7 +17,7 @@ application.use(bodyParser.json());
 application.use(addToStatistics);
 
 application.post("/save", saveData);
-application.get("/load/", loadData);
+application.get("/load", loadData);
 application.delete("/remove/:id", removeData);
 
 application.listen(3000, applicationRun);

@@ -1,10 +1,10 @@
 const { loadFromFile } = require("../hooks");
 
 const loadData = async (request, response) => {
-  const { language, level, price } = await request.searchParams;
+  const { language, level, price } = await request.query;
   const teachersString = await loadFromFile("teachers");
-  const teachers = JSON.parse(teachersString);
-  const filteredTeachers = teachers.filter(
+  const teachers = await JSON.parse(teachersString);
+  const filteredTeachers = await teachers.filter(
     (teacher) =>
       (language === "any language" || teacher.languages.includes(language)) &&
       (level === "any level" || teacher.levels.includes(level)) &&
