@@ -1,7 +1,8 @@
 const { loadFromFile } = require("../hooks");
 
 const loadData = async (request, response) => {
-  const teachers = await loadFromFile("teachers");
+  const teachersString = await loadFromFile("teachers");
+  const teachers = JSON.parse(teachersString);
   await response.json(teachers);
 };
 
