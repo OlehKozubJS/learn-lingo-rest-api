@@ -1,8 +1,7 @@
 const { loadFromFile } = require("../hooks");
 
 const loadData = async (request, response) => {
-  const { options } = await request.params;
-  const { language, level, price } = await options;
+  const { language, level, price } = await request.searchParams;
   const teachersString = await loadFromFile("teachers");
   const teachers = JSON.parse(teachersString);
   const filteredTeachers = teachers.filter(
