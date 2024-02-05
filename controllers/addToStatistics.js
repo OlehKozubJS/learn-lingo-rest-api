@@ -1,6 +1,6 @@
 const { loadFromFile, saveToFile } = require("../hooks");
 
-const addToStatistics = async (request, response, next) => {
+const addToStatistics = async (request, response) => {
   const { url, method } = request;
   const oldStatsData = await loadFromFile("statistics");
   const newStatsData = {
