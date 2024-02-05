@@ -269,3 +269,13 @@
 {"date":"Tue Feb 06 2024 01:01:04 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=German&level=B2%20Upper-Intermediate&price=any%20price","method":"GET"}
  
 {"date":"Tue Feb 06 2024 01:01:06 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=French&level=B2%20Upper-Intermediate&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 01:01:33 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=any%20language&level=any%20level&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 01:01:33 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=any%20language&level=any%20level&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 01:01:40 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=any%20language&level=B2%20Upper-Intermediate&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 01:01:57 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=any%20language&level=B2%20Upper-Intermediate&price=from%2040%20to%2049%20$","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 01:01:59 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load?language=any%20language&level=B2%20Upper-Intermediate&price=from%2030%20to%2039%20$","method":"GET"}
