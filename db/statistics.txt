@@ -391,3 +391,7 @@
 {"date":"Tue Feb 06 2024 01:55:58 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price","method":"GET"}
  
 {"date":"Tue Feb 06 2024 01:56:00 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=Ukrainian&level=any%20level&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 02:02:28 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 02:02:28 GMT+0200 (за східноєвропейським стандартним часом)","url":"/favicon.ico","method":"GET"}
