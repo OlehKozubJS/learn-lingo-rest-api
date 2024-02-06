@@ -117,3 +117,7 @@
 {"date":"Tue Feb 06 2024 13:11:08 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=French&level=any%20level&price=from%2030%20to%2039%20$","method":"GET"}
  
 {"date":"Tue Feb 06 2024 13:11:10 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=French&level=any%20level&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 13:33:05 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price","method":"GET"}
+ 
+{"date":"Tue Feb 06 2024 13:33:05 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=undefined&level=undefined&price=undefined","method":"GET"}
