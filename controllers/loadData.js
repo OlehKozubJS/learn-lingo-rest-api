@@ -1,7 +1,13 @@
 const { loadFromFile } = require("../hooks");
 
 const loadData = async (request, response) => {
-  const { language, level, price, page, perPage } = await request.query;
+  const {
+    language,
+    level,
+    price,
+    page: pageString,
+    perPage: perPageString,
+  } = await request.query;
   const teachersString = await loadFromFile("teachers");
   const teachers = await JSON.parse(teachersString);
   const filteredTeachers = await teachers.filter(
@@ -12,7 +18,9 @@ const loadData = async (request, response) => {
         (Number(teacher.price_per_hour) >= Number(price.split(" ")[1]) &&
           Number(teacher.price_per_hour) < Number(price.split(" ")[3])))
   );
-  const teachersPageAmount = Math.ceil(filteredTeachers / perPage);
+  const page = Number(pageString);
+  const perPage = Number(perPageString);
+  const teachersPageAmount = Math.ceil(filteredTeachers.length / perPage);
   const teachersPage = await filteredTeachers.slice(
     (page - 1) * perPage,
     page * perPage
