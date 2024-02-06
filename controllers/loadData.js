@@ -17,7 +17,7 @@ const loadData = async (request, response) => {
     (page - 1) * perPage,
     page * perPage
   );
-  await response.json(teachersPage);
+  await response.json({ teachers: teachersPage, pages: teachersPageAmount });
 };
 
 module.exports = { loadData };
