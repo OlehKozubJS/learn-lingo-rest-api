@@ -23,6 +23,6 @@ application.get("/load", loadData);
 application.delete("/remove/:id", removeData);
 
 application.listen(
-  "http://olehkozubjs.github.io/learn-lingo-rest-api",
+  "olehkozubjs.github.io/learn-lingo-rest-api",
   applicationRun
 );
