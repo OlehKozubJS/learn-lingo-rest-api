@@ -8,6 +8,7 @@ const {
   saveData,
   removeData,
   applicationRun,
+  test,
 } = require("./controllers");
 
 const application = express();
@@ -17,7 +18,7 @@ application.use(bodyParser.json());
 application.use(addToStatistics);
 
 application.post("/save", saveData);
-application.get("/load", loadTestData);
+application.get("/test", test);
 application.get("/load", loadData);
 application.delete("/remove/:id", removeData);
 

@@ -5,6 +5,7 @@ const { saveData } = require("./saveData");
 const { loadData } = require("./loadData");
 const { removeData } = require("./removeData");
 const { applicationRun } = require("./applicationRun");
+const { test } = require("./test");
 
 module.exports = {
   addToStatistics: tryCatcher(addToStatistics),
@@ -12,4 +13,5 @@ module.exports = {
   saveData: tryCatcher(saveData),
   removeData: tryCatcher(removeData),
   applicationRun,
+  test,
 };
