@@ -1083,3 +1083,13 @@
 {"date":"Sat Feb 10 2024 22:02:10 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
  
 {"date":"Sat Feb 10 2024 22:02:10 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Sat Feb 10 2024 22:07:59 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Sat Feb 10 2024 22:07:59 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Sat Feb 10 2024 22:08:13 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=10&perPage=3","method":"GET"}
+ 
+{"date":"Sat Feb 10 2024 22:11:45 GMT+0200 (за східноєвропейським стандартним часом)","url":"/","method":"GET"}
+ 
+{"date":"Sat Feb 10 2024 22:11:51 GMT+0200 (за східноєвропейським стандартним часом)","url":"/test","method":"GET"}
