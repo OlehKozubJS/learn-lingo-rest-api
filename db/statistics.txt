@@ -1537,3 +1537,47 @@
 {"date":"Mon Feb 12 2024 12:10:07 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
  
 {"date":"Mon Feb 12 2024 12:10:07 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:27:43 GMT+0200 (за східноєвропейським стандартним часом)","url":"/ws","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:28:16 GMT+0200 (за східноєвропейським стандартним часом)","url":"/ws","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:16 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:16 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:16 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:18 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=2&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:19 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=3&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:19 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:24 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:24 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:24 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:25 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=10&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:27 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=9&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:27 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=8&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:27 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=7&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:28 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=6&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:28 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=1&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:29 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=10&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:31 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=9&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:31 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=8&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:31 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=7&perPage=3","method":"GET"}
+ 
+{"date":"Tue Feb 13 2024 15:35:31 GMT+0200 (за східноєвропейським стандартним часом)","url":"/load/?language=any%20language&level=any%20level&price=any%20price&page=6&perPage=3","method":"GET"}
